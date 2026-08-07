@@ -101,3 +101,54 @@ Knowledge Check:
 
 Reflection:
 Today's focus was understanding how Django organizes projects and apps rather than writing application code. I spent time understanding the purpose of the project structure and how the management commands fit into the backend development workflow. My handwritten notes and diagrams continue to help connect the commands to the overall request → application → database flow.
+
+# Progress Log — 2026-08-07
+
+## Meta Back-End Developer Professional Certificate
+**Course:** Django Web Framework
+
+### Completed
+
+- Created my first Django project using:
+  - `py -m django startproject myproject`
+- Explored the generated project structure.
+- Identified the purpose of the core project files:
+  - `manage.py`
+  - `settings.py`
+  - `urls.py`
+  - `asgi.py`
+  - `wsgi.py`
+  - `__init__.py`
+- Created my first Django application:
+  - `py manage.py startapp myapp`
+- Examined the automatically generated app files:
+  - `admin.py`
+  - `apps.py`
+  - `models.py`
+  - `views.py`
+  - `tests.py`
+  - `migrations/`
+- Verified the project with:
+  - `py manage.py check`
+- Started the local development server:
+  - `py manage.py runserver`
+- Successfully opened the Django welcome page at:
+  - `http://127.0.0.1:8000/`
+- Successfully accessed the Django Admin login page.
+- Learned that Django ships with many built-in features ("batteries included"), including the Admin interface, authentication, sessions, and migrations.
+- Reviewed the distinction between a **Django project** and a **Django app**.
+- Confirmed the generated project files were correctly staged in Git while leaving the SQLite database untracked.
+
+### Assessment
+
+- Completed the "Creating your first project and app" lab locally.
+- Passed the Coursera self-review on the **first attempt** with a **100%** score.
+
+### Key Takeaways
+
+- A **project** manages the overall Django configuration.
+- An **app** contains a specific feature or piece of functionality.
+- Django generates a large amount of project structure automatically.
+- `manage.py` is the primary command-line tool used during development.
+- The development server makes it easy to test changes locally before deployment.
+- The Admin interface is available immediately after project creation, demonstrating Django's "batteries included" philosophy.
