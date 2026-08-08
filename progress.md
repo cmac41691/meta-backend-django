@@ -152,3 +152,23 @@ Today's focus was understanding how Django organizes projects and apps rather th
 - `manage.py` is the primary command-line tool used during development.
 - The development server makes it easy to test changes locally before deployment.
 - The Admin interface is available immediately after project creation, demonstrating Django's "batteries included" philosophy.
+  
+  ## 2026-08-08 — Django Applications
+
+- Completed the discussion on challenges encountered while creating my first Django app.
+- Reviewed Django project and application structure.
+- Reinforced the difference between `django-admin` and `manage.py`.
+- Reviewed common Django management commands and application structure.
+- Completed the **Knowledge Check: Applications**.
+- Quiz progression:
+  - Attempt 1: 20%
+  - Attempt 2: 40%
+  - Attempt 3: 60%
+  - Attempt 4: 80% — Passed
+- Continued connecting Django applications to the backend request flow:
+
+  `Client → Request → Django URL Routing → View → Application Logic → Model / Database → Response`
+
+### Reflection
+
+The knowledge check took several attempts, but each attempt improved my understanding of Django applications and project structure. Instead of stopping after an incorrect attempt, I reviewed what I misunderstood and tried again. I progressed from 20% to 40%, then 60%, and finally reached the passing score of 80%.
