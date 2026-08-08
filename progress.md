@@ -153,22 +153,33 @@ Today's focus was understanding how Django organizes projects and apps rather th
 - The development server makes it easy to test changes locally before deployment.
 - The Admin interface is available immediately after project creation, demonstrating Django's "batteries included" philosophy.
   
-  ## 2026-08-08 — Django Applications
+  ## 2026-08-08 — Django Applications and MVT
 
-- Completed the discussion on challenges encountered while creating my first Django app.
+- Continued Module 1: Introduction to Django.
 - Reviewed Django project and application structure.
 - Reinforced the difference between `django-admin` and `manage.py`.
-- Reviewed common Django management commands and application structure.
+- Reviewed common Django management commands.
+- Completed the discussion on challenges encountered while creating a first Django app.
 - Completed the **Knowledge Check: Applications**.
-- Quiz progression:
   - Attempt 1: 20%
   - Attempt 2: 40%
   - Attempt 3: 60%
   - Attempt 4: 80% — Passed
-- Continued connecting Django applications to the backend request flow:
+- Continued into **Web Frameworks and MVT**.
+- Reviewed what a web framework provides and how Django organizes backend applications.
+- Studied Django's Model-View-Template (MVT) architecture.
+- Connected MVT to the backend request/response lifecycle.
+- Completed the **Knowledge Check: Web Frameworks and MVT**.
+  - Attempt 1: 40%
+  - Attempt 2: 40%
+  - Attempt 3: 100% — Passed
 
-  `Client → Request → Django URL Routing → View → Application Logic → Model / Database → Response`
+### Backend Connection
+
+`Client → Request → URL Routing → View → Model → Database → Template/Response → Client`
 
 ### Reflection
 
-The knowledge check took several attempts, but each attempt improved my understanding of Django applications and project structure. Instead of stopping after an incorrect attempt, I reviewed what I misunderstood and tried again. I progressed from 20% to 40%, then 60%, and finally reached the passing score of 80%.
+Today reinforced how Django organizes a backend application rather than just how to create its files. The Applications knowledge check took four attempts, improving from 20% to 80%. The Web Frameworks and MVT knowledge check took three attempts, going from 40% to 40% and then 100%. Reviewing the mistakes between attempts helped reinforce the distinction between Django's project structure, applications, and MVT architecture.
+
+Next session: continue Module 1 on 2026-08-09.
