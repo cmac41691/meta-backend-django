@@ -183,3 +183,18 @@ Today's focus was understanding how Django organizes projects and apps rather th
 Today reinforced how Django organizes a backend application rather than just how to create its files. The Applications knowledge check took four attempts, improving from 20% to 80%. The Web Frameworks and MVT knowledge check took three attempts, going from 40% to 40% and then 100%. Reviewing the mistakes between attempts helped reinforce the distinction between Django's project structure, applications, and MVT architecture.
 
 Next session: continue Module 1 on 2026-08-09.
+
+## 2026-08-09
+
+### Module 1 — Introduction to Django
+
+- Completed Web Frameworks and MVT notes.
+- Reviewed Django's Model-View-Template architecture.
+- Connected Django's request flow to:
+  `Client → Request → URL Dispatcher → View → Model / Database → Template → Response`
+- Completed the Module 1 graded quiz.
+- Quiz progression:
+  - Attempt 1: 60%
+  - Attempt 2: 80% — Passed
+- Completed Module 1: Introduction to Django.
+- Next: Module 2 — Views.  
