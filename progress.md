@@ -197,4 +197,27 @@ Next session: continue Module 1 on 2026-08-09.
   - Attempt 1: 60%
   - Attempt 2: 80% — Passed
 - Completed Module 1: Introduction to Django.
-- Next: Module 2 — Views.  
+- Next: Module 2 — Views. 
+
+### Django Views and URL Configuration
+
+- Started Module 2 — Views.
+- Created a new Django project for view and URL routing practice.
+- Created and configured the `myapp` Django application.
+- Created a `home()` view using `HttpResponse`.
+- Added HTML output for the Little Lemon test page.
+- Created `myapp/urls.py` for application-level URL routing.
+- Connected project-level URLs to application URLs using `include()`.
+- Registered `myapp` in `INSTALLED_APPS`.
+- Troubleshot a `ModuleNotFoundError` caused by the missing `myapp.urls` module.
+- Successfully ran the Django development server.
+- Verified the root request returned HTTP `200`.
+- Successfully rendered `Welcome to Little Lemon!` in the browser.
+
+### Backend Connection
+
+`Client → Request → Project URLs → App URLs → View → HttpResponse → Client`
+
+### Reflection
+
+This exercise helped reinforce that creating a Django view is only one part of the request flow. The project URL configuration must route the request into the application's URL configuration, which then connects the URL to the correct view. Troubleshooting the missing `myapp.urls` file made the relationship between project-level routing, app-level routing, and views much clearer. 
