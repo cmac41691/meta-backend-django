@@ -221,3 +221,16 @@ Next session: continue Module 1 on 2026-08-09.
 ### Reflection
 
 This exercise helped reinforce that creating a Django view is only one part of the request flow. The project URL configuration must route the request into the application's URL configuration, which then connects the URL to the correct view. Troubleshooting the missing `myapp.urls` file made the relationship between project-level routing, app-level routing, and views much clearer. 
+
+## 2026-08-13
+
+### Django Web Framework — Module 2
+
+- Completed the Views section.
+- Completed the Views knowledge check.
+- First attempt: 20%
+- Second attempt: 80% — Passed
+- Reviewed how Django views receive requests and return responses.
+- Reviewed how views connect to URL routing.
+- Organized my Views notes in the Module 2 notes folder.
+- Next: Begin the Requests and URLs section. 
