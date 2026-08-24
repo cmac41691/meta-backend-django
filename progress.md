@@ -234,3 +234,18 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Reviewed how views connect to URL routing.
 - Organized my Views notes in the Module 2 notes folder.
 - Next: Begin the Requests and URLs section. 
+## 2026-08-24
+
+### Django Web Framework — Module 2
+
+- Completed the Mapping URLs with Params exercise.
+- Built and tested dynamic URL parameters using `<str:drink_name>`.
+- Connected URL parameters to the `drinks` view and dictionary lookup.
+- Tested `mocha`, `tea`, and `lemonade` successfully with HTTP 200 responses.
+- Tested an invalid `water` parameter and observed the expected `KeyError`.
+- Compared my implementation with the Meta solution.
+- Completed the Mapping URLs with Params self-review.
+- First attempt: 33%
+- Second attempt: 66%
+- Third attempt: 100% — Passed
+- Next: Continue Django Web Framework Module 2 on 2026-08-25.
