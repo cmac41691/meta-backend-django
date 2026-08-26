@@ -249,3 +249,14 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Second attempt: 66%
 - Third attempt: 100% — Passed
 - Next: Continue Django Web Framework Module 2 on 2026-08-25.
+
+## 2026-08-26
+
+### Django Web Framework — Module 2
+
+- Completed the Requests and URLs knowledge check.
+- First attempt: 0%.
+- Second attempt: 80% — Passed.
+- Reviewed HTTP requests, responses, URL routing, and parameters.
+- Reinforced how Django connects URLs to views through the request/response flow.
+- Next: Continue to the next section of Module 2. 
