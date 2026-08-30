@@ -259,4 +259,17 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Second attempt: 80% — Passed.
 - Reviewed HTTP requests, responses, URL routing, and parameters.
 - Reinforced how Django connects URLs to views through the request/response flow.
-- Next: Continue to the next section of Module 2. 
+- Next: Continue to the next section of Module 2.
+
+## 2026-08-30
+
+### Django Web Framework — Module 2
+
+- Completed the Little Lemon URL mapping project.
+- Connected the project-level `urls.py` to the `littlemon` app using `include()`.
+- Created separate view functions for home, about, menu, and booking.
+- Used `HttpResponse` to verify each view returned the expected response.
+- Debugged URL routing, syntax, and view attribute errors.
+- Tested `/about/`, `/menu/`, and `/booking/` successfully in the browser.
+- Reinforced the Django request flow: URL request → project URLs → app URLs → view → response.
+- Project completed and ready to commit.  
