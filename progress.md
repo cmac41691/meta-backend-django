@@ -288,3 +288,17 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Reinforced how project URLs, app URLs, views, requests, and responses work together.
 - Noticed that debugging this project took days rather than weeks as the relationship between Django's moving parts is becoming easier to trace.
 - Next: Continue Django Web Framework — Module 2.  
+
+## 2026-09-04
+
+### Django Web Framework — Module 2: Views
+
+- Completed and organized notes for Creating URLs and Views.
+- Completed the Handle Errors in Views knowledge check: 80% on the first attempt.
+- Completed the Module 2 Views summary.
+- Completed the Module 2 Views quiz.
+- First attempt: 50%.
+- Second attempt: 90% — Passed.
+- Reinforced URL routing, views, error handling, URL namespacing, and class-based views.
+- Completed Module 2: Views.
+- Next: Begin Module 3.
