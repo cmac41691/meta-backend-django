@@ -302,3 +302,17 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Reinforced URL routing, views, error handling, URL namespacing, and class-based views.
 - Completed Module 2: Views.
 - Next: Begin Module 3.
+
+## 2026-09-08
+
+### Django Web Framework — Module 3: Models and Migrations
+
+- Began working with Django models and migrations locally.
+- Created the `Drinks` model with `drink_name` and `price` fields.
+- Registered the `Drinks` model with Django Admin.
+- Troubleshot why Django was not detecting changes and found that `myapp` needed to be added to `INSTALLED_APPS`.
+- Fixed the model inheritance from `models` to `models.Model`.
+- Successfully ran `makemigrations` and generated `0001_initial.py`.
+- Successfully applied the migration to the SQLite database.
+- Compared the local migration workflow with the Coursera browser environment.
+- Learned that Django detects model changes by comparing the current model state against existing migration history. 
