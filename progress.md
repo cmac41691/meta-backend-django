@@ -315,4 +315,15 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Successfully ran `makemigrations` and generated `0001_initial.py`.
 - Successfully applied the migration to the SQLite database.
 - Compared the local migration workflow with the Coursera browser environment.
-- Learned that Django detects model changes by comparing the current model state against existing migration history. 
+- Learned that Django detects model changes by comparing the current model state against existing migration history.
+
+## 2026-09-12
+
+### Django Web Framework — Module 3: Models
+
+- Completed the Models and Migrations self-review: 100%.
+- Completed Models using Foreign Keys.
+- Practiced identifying one-to-many relationships between Django models.
+- Connected Django `ForeignKey()` syntax to primary key / foreign key relationships from SQL.
+- Bypassed the duplicate browser-based Models and Migrations lab after completing the same migration workflow locally.
+- Reinforced the workflow: Model change → `makemigrations` → migration file → `migrate` → database. 
