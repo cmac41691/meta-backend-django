@@ -327,3 +327,23 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Connected Django `ForeignKey()` syntax to primary key / foreign key relationships from SQL.
 - Bypassed the duplicate browser-based Models and Migrations lab after completing the same migration workflow locally.
 - Reinforced the workflow: Model change → `makemigrations` → migration file → `migrate` → database. 
+
+## 2026-09-13
+
+### Django Web Framework — Module 3: Models using Foreign Keys
+
+- Completed the Models using Foreign Keys exercise locally.
+- Created the `DrinksCategory` model and connected it to the `Drinks` model using `ForeignKey`.
+- Used `models.PROTECT` and `default=None` with the foreign key.
+- Registered both models with Django Admin.
+- Ran `makemigrations` and generated the new migration for `DrinksCategory` and the foreign key relationship.
+- Successfully applied the migration to SQLite.
+- Used the Django shell to import the models, create a `DrinksCategory` object, and save it to the database.
+- Debugged an import error caused by a model-name mismatch (`DrinkCategory` vs `DrinksCategory`).
+- Completed the Models using Foreign Keys self-review:
+  - Attempt 1: 66.66%
+  - Attempt 2: 66.66%
+  - Attempt 3: 100%
+- Reinforced the relationship:
+
+  Model → ForeignKey → Migration → Database → ORM/Django Shell
