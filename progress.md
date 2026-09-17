@@ -347,3 +347,15 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Reinforced the relationship:
 
   Model → ForeignKey → Migration → Database → ORM/Django Shell
+
+## 2026-09-17
+
+### Models & Migrations — Knowledge Check
+
+- Completed the Models & Migrations knowledge check.
+- Attempt 1: 20%
+- Attempt 2: 40%
+- Attempt 3: 60%
+- Attempt 4: 80% — Passed
+- Reinforced understanding of Django models, migrations, ORM, and model relationships.
+- Improved through reviewing incorrect answers and retrying until reaching the passing grade.
