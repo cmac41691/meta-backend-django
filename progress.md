@@ -359,3 +359,28 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Attempt 4: 80% — Passed
 - Reinforced understanding of Django models, migrations, ORM, and model relationships.
 - Improved through reviewing incorrect answers and retrying until reaching the passing grade.
+
+## 2026-10-12
+
+### Django Web Framework — Module 3: Working with Forms
+
+- Continued the Working with Forms exercise in the Meta Back-End Developer Certificate.
+- Created the `Booking` model and corrected errors identified through Django tracebacks.
+- Generated and applied migration `0003_booking`.
+- Created `BookingForm` using Django's `ModelForm`.
+- Connected `views.py`, `urls.py`, and `booking.html`.
+- Implemented a booking form using HTML, Django template syntax, and CSRF protection.
+- Successfully ran the Django development server and accessed `/booking/`.
+- Submitted test reservations using POST and verified the records in SQLite Viewer.
+- Tested required fields, single-character names, browser refreshes, and negative guest counts.
+- Identified two issues: negative guest counts being accepted and duplicate records from repeated submissions.
+- Reinforced understanding of the workflow:
+
+  **Browser → URL → View → Form → Model → SQLite Database**
+
+**Status:** Working Forms exercise implemented and tested locally.
+
+**Next session — 2026-10-13:**
+- Compare my implementation with Meta's provided solution.
+- Review differences and document corrections.
+- Investigate model validation and duplicate-submission prevention.
