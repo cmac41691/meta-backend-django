@@ -384,3 +384,17 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Compare my implementation with Meta's provided solution.
 - Review differences and document corrections.
 - Investigate model validation and duplicate-submission prevention.
+
+## 2026-10-14
+
+### Django Web Framework — Module 3: Working with Forms
+
+- Completed the **Self Review: Working with Forms** practice assignment.
+- Achieved a final grade of **100%**, after multiple attempts.
+- Reviewed incorrect answers and repeated the assessment to reinforce understanding.
+- Reinforced knowledge of Django forms, `ModelForm`, model integration, and form handling.
+- Connected the assessment concepts to the booking form implemented and tested locally on 2026-10-12.
+
+**Status:** Self-review completed — 100%.
+
+**Next:** Continue with the *Knowledge Check: Model and Forms* and review any remaining Module 3 material.
