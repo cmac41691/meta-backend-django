@@ -394,6 +394,7 @@ This exercise helped reinforce that creating a Django view is only one part of t
 - Reviewed incorrect answers and repeated the assessment to reinforce understanding.
 - Reinforced knowledge of Django forms, `ModelForm`, model integration, and form handling.
 - Connected the assessment concepts to the booking form implemented and tested locally on 2026-10-12.
+- 
 
 **Status:** Self-review completed — 100%.
 
