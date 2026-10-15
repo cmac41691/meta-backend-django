@@ -399,3 +399,17 @@ This exercise helped reinforce that creating a Django view is only one part of t
 **Status:** Self-review completed — 100%.
 
 **Next:** Continue with the *Knowledge Check: Model and Forms* and review any remaining Module 3 material.
+
+## 2026-10-15
+
+### Django Web Framework — Module 3: Knowledge Check — Model and Forms
+
+- Completed the **Knowledge Check: Model and Forms**.
+- Attempt 1: **40%**
+- Attempt 2: **100% — Passed**
+- Reviewed incorrect answers and reinforced understanding of Django models and forms.
+- Connected the knowledge check to the practical `Booking` model and `BookingForm` exercise completed on 2026-10-12.
+
+**Status:** Knowledge check completed — 100%.
+
+**Next:** Continue with the remaining Django Web Framework course material.
