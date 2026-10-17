@@ -413,3 +413,19 @@ This exercise helped reinforce that creating a Django view is only one part of t
 **Status:** Knowledge check completed — 100%.
 
 **Next:** Continue with the remaining Django Web Framework course material.
+
+## 2026-10-17
+
+### Django Web Framework — Module 3: Models and Forms
+
+- Completed the Models and Forms subsection.
+- Consolidated six pages of handwritten notes into `notes/module-3-models/models-and-forms.md`.
+- Reviewed Django forms, field types, validation, `cleaned_data`, and `ModelForm`.
+- Reinforced understanding of models, migrations, ORM, and database relationships.
+- Connected the concepts to the completed Booking Form exercise.
+- Documented practical lessons involving validation, negative guest counts, and duplicate submissions.
+- Created a permanent Markdown reference for future backend projects.
+
+**Status:** Models and Forms subsection completed.
+
+**Next:** Continue with Django Admin.
