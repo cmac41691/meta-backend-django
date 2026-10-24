@@ -429,3 +429,22 @@ This exercise helped reinforce that creating a Django view is only one part of t
 **Status:** Models and Forms subsection completed.
 
 **Next:** Continue with Django Admin.
+
+### 2026-10-24 — Django Admin Lab
+
+**Course:** Django Web Framework  
+**Module:** Models and Forms — Django Admin  
+**Session:** 7:30 AM – 10:30 AM (3 hours)
+
+**Completed:**
+- Completed the Using Django Admin exercise.
+- Created the `Employees` model and database migration.
+- Registered the model in Django Admin.
+- Created the `jason_chef` user and assigned permissions.
+- Reviewed and updated `.gitignore` to exclude local database and environment files.
+- Committed and pushed changes to GitHub (`f2bba24`).
+- Verified a clean Git working tree.
+
+**Reflection:**
+
+Gained a better understanding of how Django Admin manages models, users, and permissions. Practiced protecting local files through `.gitignore` and reviewing changes before committing.
