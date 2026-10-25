@@ -448,3 +448,23 @@ This exercise helped reinforce that creating a Django view is only one part of t
 **Reflection:**
 
 Gained a better understanding of how Django Admin manages models, users, and permissions. Practiced protecting local files through `.gitignore` and reviewing changes before committing.
+
+### 2026-10-25 — Django Admin: Self-Review and Knowledge Check
+
+**Course:** Django Web Framework  
+**Module:** Models and Forms — Django Admin
+
+**Completed:**
+- Completed Self-Review: Using Django Admin.
+  - Attempt 1: 33.33%
+  - Attempt 2: 66.66%
+  - Attempt 3: 100%
+- Completed Knowledge Check: Admin.
+  - Attempt 1: 80%
+- Reviewed the official Django Admin lab solution and compared it against my implementation from October 24.
+
+**Reflection:**
+
+Improved my understanding of Django Admin, model registration, user management, and permissions. The self-review required multiple attempts, but each attempt helped reinforce the concepts. Achieved 80% on the knowledge check on the first attempt.
+
+**Next:** Continue into the next section of the Django Web Framework course.
