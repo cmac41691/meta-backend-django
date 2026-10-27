@@ -468,3 +468,54 @@ Gained a better understanding of how Django Admin manages models, users, and per
 Improved my understanding of Django Admin, model registration, user management, and permissions. The self-review required multiple attempts, but each attempt helped reinforce the concepts. Achieved 80% on the knowledge check on the first attempt.
 
 **Next:** Continue into the next section of the Django Web Framework course.
+
+## 2026-10-27 — Django Database Configuration: MySQL Setup
+
+**Course:** Meta Back-End Developer Professional Certificate  
+**Module:** Django Web Framework — Module 3  
+**Section:** Database Configuration
+
+### Completed
+- Installed and configured MySQL Server 8.0.46.
+- Connected successfully to the local MySQL server using MySQL Workbench.
+- Verified the server version using `SELECT VERSION();`.
+- Created a new database named `mydatabase`.
+- Confirmed the database exists using `SHOW DATABASES;`.
+- Activated the Django project's Python virtual environment.
+- Verified that pip uses the correct virtual environment.
+- Successfully installed `mysqlclient` 2.3.0.
+- Located the `DATABASES` dictionary in Django's `settings.py`.
+- Confirmed that `.gitignore` excludes `.env` files and the virtual environment.
+- Reviewed the Meta course reading on configuring a MySQL connection.
+
+### Technical Understanding
+
+MySQL is a separate database server, unlike SQLite, which stores data in a local database file.
+
+Django communicates with MySQL through a database driver:
+
+**Django → mysqlclient → MySQL Server → Database**
+
+The `DATABASES` dictionary in `settings.py` determines which database Django connects to.
+
+### Current Status
+
+MySQL is installed and the database has been created successfully.
+
+Django is still configured to use SQLite. The MySQL connection and migrations have not yet been completed.
+
+### Next Session — 2026-10-28
+
+- Watch *Setting up a MySQL connection*.
+- Prepare the MySQL connection configuration in Django.
+- Keep database credentials out of GitHub.
+- Begin *Exercise: Connecting to a Database*.
+- Test the connection before running migrations.
+
+### Reflection
+
+Today I moved beyond working with SQLite and began setting up a separate relational database server for Django.
+
+I successfully configured MySQL, created a database, and installed the Python driver. This helps me understand how backend applications communicate with database servers.
+
+**Progress:** MySQL environment ready; Django connection pending.
