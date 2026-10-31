@@ -519,3 +519,26 @@ Today I moved beyond working with SQLite and began setting up a separate relatio
 I successfully configured MySQL, created a database, and installed the Python driver. This helps me understand how backend applications communicate with database servers.
 
 **Progress:** MySQL environment ready; Django connection pending.
+
+### 2026-10-31 — Django Database Configuration
+
+**Status:** Completed
+
+**Accomplishments:**
+- Resolved MySQL Error 1045 (authentication failure).
+- Successfully authenticated using `django_user`.
+- Verified access to the `feedback` database.
+- Connected Django to MySQL using environment-based credentials.
+- Executed `python manage.py migrate` successfully.
+- Verified applied migrations using `python manage.py showmigrations`.
+
+**Key Takeaways:**
+- Understood how Django connects to a MySQL database.
+- Learned the difference between SQL syntax errors and authentication errors.
+- Gained hands-on experience troubleshooting database connections.
+- Observed how Django migrations create and manage database structures.
+
+**Reflection:**
+Successfully configured Django to communicate with MySQL after troubleshooting authentication issues. This exercise strengthened my understanding of backend architecture, database persistence, and framework configuration.
+
+**Next Step:** Continue to the next Meta Django lesson or exercise.
