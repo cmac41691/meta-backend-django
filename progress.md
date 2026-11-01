@@ -542,3 +542,27 @@ I successfully configured MySQL, created a database, and installed the Python dr
 Successfully configured Django to communicate with MySQL after troubleshooting authentication issues. This exercise strengthened my understanding of backend architecture, database persistence, and framework configuration.
 
 **Next Step:** Continue to the next Meta Django lesson or exercise.
+
+### 2026-11-01 — Database Configuration: Self-Review & Knowledge Check
+
+**Status:** Completed
+
+**Self-Review: Connecting to a Database**
+- Attempt 1: 66.66%
+- Attempt 2: 100% — Passed
+
+**Knowledge Check: Database Configuration**
+- Attempt 1: 60%
+- Attempt 2: 60%
+- Attempt 3: 100% — Passed
+
+**Accomplishments:**
+- Reviewed the Django–MySQL database connection exercise.
+- Compared my working `mysqlproject` configuration with Meta's reference solution.
+- Reinforced my understanding of Django database settings, MySQL authentication, and migrations.
+- Successfully completed both assessments with 100%.
+
+**Reflection:**
+Continued reinforcing my understanding of Django database configuration following the successful MySQL connection and migrations on October 31. Improved my assessment scores through repeated attempts and review.
+
+**Next Step:** Continue to the next section of the Meta Django Web Framework course.
