@@ -566,3 +566,23 @@ Successfully configured Django to communicate with MySQL after troubleshooting a
 Continued reinforcing my understanding of Django database configuration following the successful MySQL connection and migrations on October 31. Improved my assessment scores through repeated attempts and review.
 
 **Next Step:** Continue to the next section of the Meta Django Web Framework course.
+
+### 2026-11-02 — Module 3: Models
+
+**Status:** Module quiz passed
+
+**Module Quiz: Models**
+- Attempt 1: 40%
+- Attempt 2: 80% — Passed (minimum required: 80%)
+
+**Accomplishments:**
+- Completed the Module 3: Models graded assessment.
+- Improved my score from 40% to 80% on the second attempt.
+- Revisited Django model concepts and database configuration through the assessment.
+- Reached the passing requirement for the module quiz.
+
+**Reflection:**
+Made progress in understanding Django models and their role in backend development. The second attempt showed improvement and helped identify areas to continue reviewing.
+
+**Next Step:**
+Review any incorrect answers and proceed to Module 4: Templates.
