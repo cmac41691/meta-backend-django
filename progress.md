@@ -586,3 +586,24 @@ Made progress in understanding Django models and their role in backend developme
 
 **Next Step:**
 Review any incorrect answers and proceed to Module 4: Templates.
+### 2026-11-10 — Module 4: Django Templates
+
+**Completed:**
+- Created `about.html` and `menu.html` for the Little Lemon Django application.
+- Configured Django views and URL routing to render HTML templates.
+- Used Python dictionaries to pass data from views into templates.
+- Displayed restaurant information and three menu items using Django template variables.
+- Tested `/about/` and `/menu/` locally and confirmed both pages rendered successfully.
+
+**Troubleshooting:**
+- Corrected Python dictionary syntax and template variable references.
+- Verified that Django returned HTTP 200 responses.
+- Updated HTML headings and browser page titles.
+
+**Reflection:**
+
+Improved my understanding of how Django connects Python views to HTML templates. Practiced passing dictionary data through `render()` and displaying it in the browser.
+
+**Next step:**
+
+Continue the Meta Back-End Developer Certificate on 2026-11-11.
