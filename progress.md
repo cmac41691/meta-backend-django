@@ -607,3 +607,19 @@ Improved my understanding of how Django connects Python views to HTML templates.
 **Next step:**
 
 Continue the Meta Back-End Developer Certificate on 2026-11-11.
+
+### 2026-11-12 — Module 4: Templates — Self-Review and Knowledge Check
+
+**Completed:**
+- Self-review: Creating Templates — First attempt: 66.66% → Second attempt: 100%.
+- Knowledge Check: Templates — First attempt: 20% → Second attempt: 80%.
+- Reviewed Django templates, context dictionaries, and static files.
+- Reinforced understanding of how Django views pass dynamic data into HTML templates.
+
+**Reflection:**
+
+Improved my understanding of Django's separation of concerns between views, templates, and data. Reviewing incorrect answers and revisiting concepts helped strengthen my understanding.
+
+**Next step:**
+
+Review remaining Module 4 material and continue with the next Meta Back-End Developer lesson.
